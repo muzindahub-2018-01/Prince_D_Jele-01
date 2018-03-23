@@ -1,8 +1,7 @@
 # Prince_D_Jele
 Author          : P D Jele  (@Umlamulankunzi)
 
-# Project title   
-: Math Challenge
+# Project title    : Math Challenge
 
 # Project Summary 
 : The program asks user to choose type of challenge i.e from subtraction, multiplication, addition or division
