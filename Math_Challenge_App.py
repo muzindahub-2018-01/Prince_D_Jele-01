@@ -82,7 +82,6 @@ def divide():
     return num1, num2, int(func_result)
 
 def choice():
-    clear_screen()
     while True:
         try:
             choice_of_operation = input("""Choose your MATHS Challenge from below:
