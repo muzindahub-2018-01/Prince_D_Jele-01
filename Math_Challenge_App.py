@@ -171,7 +171,7 @@ def main():
                               '\tCorrect Answer ******\n')
                     else:
                         print('No.{0}: {1} {2} {3} = {4}'.format(index, num_1, sign, num_2, user_1),
-                              '\twrong  \t{} {} {} = {}\n'.format(num_1, sign, num_2, result_1))
+                              '\tcorrection ----> {} {} {} = {}\n'.format(num_1, sign, num_2, result_1))
                     index += 1
                 print('==='*15)
                 
