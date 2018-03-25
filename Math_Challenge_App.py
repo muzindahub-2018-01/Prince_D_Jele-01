@@ -193,8 +193,8 @@ def main():
 
             while True:
                 try:
-                    prompt = input("\n\nDo you want to try the"
-                                   " \nMath Challenge again?"
+                    prompt = input("\n\nDo you want to PLAY the"
+                                   " \nMath Challenge again?\n"
                                    " \ny - To Play Again \nn - To quit\n").lower()
                     if prompt not in ['y','n']:
                         raise ValueError
